@@ -36,7 +36,7 @@ Praktikum ini mengerjakan:
 ├── transactions_arm_praktikum.csv  # Lampiran A: 60 transaksi toko kelontong
 ├── transactions_toko_baju.csv      # Lampiran B: 50 transaksi toko baju (sintetis)
 └── laporan/
-    └── 24343029_Ahmad_Naufal_Azzuhdi_Laporan_PraktikumARM.docx
+    └── Kelompok 8_Laporan_PraktikumARM.docx
 ```
 
 ## Dataset
