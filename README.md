@@ -61,9 +61,7 @@ Format CSV: kolom `transaction_id` dan `items` (item dipisah koma dalam satu sel
 3. Jalankan salah satu:
 
    ```bash
-   jupyter notebook Praktikum_ARM_output.ipynb
-   # atau
-   python praktikum_arm.py
+   jupyter notebook Praktikum_ARM_Kelompok8.ipynb
    ```
 
 Program toko baju membuat ulang `transactions_toko_baju.csv` secara otomatis, jadi hasilnya selalu sama (seed 42).
