@@ -58,7 +58,7 @@ Format CSV: kolom `transaction_id` dan `items` (item dipisah koma dalam satu sel
    ```
 
 2. Taruh file `.csv` satu folder dengan notebook atau skrip.
-3. Jalankan salah satu:
+3. Jalankan:
 
    ```bash
    jupyter notebook Praktikum_ARM_Kelompok8.ipynb
