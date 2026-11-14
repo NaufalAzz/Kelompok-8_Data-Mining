@@ -31,8 +31,7 @@ Praktikum ini mengerjakan:
 ```
 .
 ├── README.md
-├── Praktikum_ARM_output.ipynb      # notebook lengkap beserta output
-├── praktikum_arm.py                # versi skrip (tiap "# %%" = satu sel)
+├── Praktikum_ARM_Kelompok8.ipynb      # notebook lengkap beserta output
 ├── transactions_arm_praktikum.csv  # Lampiran A: 60 transaksi toko kelontong
 ├── transactions_toko_baju.csv      # Lampiran B: 50 transaksi toko baju (sintetis)
 └── laporan/
