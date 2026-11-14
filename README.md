@@ -34,7 +34,7 @@ Praktikum ini mengerjakan:
 ├── Praktikum_ARM_Kelompok8.ipynb      # notebook lengkap beserta output
 ├── transactions_arm_praktikum.csv  # Lampiran A: 60 transaksi toko kelontong
 ├── transactions_toko_baju.csv      # Lampiran B: 50 transaksi toko baju (sintetis)
-└── laporan/
+└── Laporan Praktikum/
     └── Kelompok 8_Laporan_PraktikumARM.docx
 ```
 
